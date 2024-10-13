@@ -1,5 +1,5 @@
 # Hi there!
-This is Dancel - a simple library to write/read DNS packets. **WIP**
+This is Dancel - a simple [single file](https://raw.githubusercontent.com/Astroner/dancel/refs/heads/master/Dancel.h) library to write/read DNS packets. **WIP**
 
 # Quick example
 ```c
