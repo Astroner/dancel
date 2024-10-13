@@ -1,0 +1,5 @@
+#undef TESTS_H
+#undef WITH_BEFORE_EACH
+#undef WITH_AFTER_EACH
+#undef __ADD_BEFORE_EACH
+#undef __ADD_AFTER_EACH
